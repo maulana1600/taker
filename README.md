@@ -21,7 +21,7 @@ Bot Python sederhana untuk mengotomatiskan panggilan fungsi `active()` pada smar
 
 1.  **Clone atau Unduh Repositori (Jika sudah di GitHub):**
     ```bash
-    git clone [URL_REPO_ANDA_NANTI]
+    git clone https://github.com/maulana1600/taker.git
     cd taker-miner-bot
     ```
     Atau, jika Anda membuat file secara manual, pastikan semua file (`taker_bot.py`, `requirements.txt`, `.gitignore`) berada dalam satu direktori.
