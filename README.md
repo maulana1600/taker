@@ -25,10 +25,9 @@ Bot Python untuk mengotomatiskan interaksi dengan Taker Protocol. Bot ini menggu
 1.  **Clone atau Unduh Repositori:**
     Jika Anda sudah membuat repositori di GitHub, clone:
     ```bash
-    git clone [URL_REPO_ANDA_DARI_GITHUB.git]
-    cd nama-direktori-repo-anda
+    git clone https://github.com/maulana1600/taker.git
+    cd taker
     ```
-    Jika belum, buat direktori baru dan salin file `taker_bot.py`, `requirements.txt`, dan `.gitignore` ke dalamnya.
 
 2.  **Buat Virtual Environment (Sangat Direkomendasikan):**
     ```bash
